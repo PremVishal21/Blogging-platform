@@ -1,0 +1,26 @@
+{
+  "name": "blogging-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "react-redux": "^8.1.1",
+    "axios": "^1.4.0",
+    "react-quill": "^2.0.0",
+    "clsx": "^1.2.1"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "tailwindcss": "^3.5.0",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14"
+  }
+}
